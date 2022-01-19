@@ -5,9 +5,9 @@ const url = "collection.csv";
 // Note: display labels will be automatically created by capitalising
 // each word and replacing underscores with spaces.
 const taxonomy = {
-	facet_a: ["red", "blue"],
-	facet_b: ["pears", "apples", "oranges"],
-	facet_c: ["alpha", "beta", "gamma", "delta"],
+	facet_a: ["EM", "LM"],
+	facet_b: ["Acquisition", "Registration", "Segmentation", "Proofreading", "Analysis"],
+	facet_c: ["GitHub available", "no GitHub"],
 };
 
 // Uncomment this line and remove the above if you do not want to use a taxonomy
